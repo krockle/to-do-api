@@ -105,3 +105,6 @@ dist
 
 # vscode settings folder
 .vscode/
+
+#eslint config file
+.eslintrc.js
