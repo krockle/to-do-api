@@ -24,4 +24,4 @@ jobs:
         heroku_api_key: ${{secrets.HEROKU_API_KEY}}
         heroku_app_name: "krock-to-do-api" #Must be unique in Heroku
         heroku_email: "kyle.h.rock@gmail.com"
-        dontuseforce: true
+        branch: "master"
